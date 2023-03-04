@@ -16,4 +16,4 @@
   
 # MYSQL.Задача_4
 - Ссылка на репозиторий:
-  - [Скрин]()
+  - [Скрин](https://github.com/AbraCodabr/Internship/blob/main/MYSQL.screenshots/Безымянный.jpg)
