@@ -17,3 +17,7 @@
 # MYSQL.Задача_4
 - Ссылка на репозиторий:
   - [Скрин](https://github.com/AbraCodabr/Internship/blob/main/MYSQL.screenshots/Безымянный.jpg)
+
+# PHP. Теория и практика.Задача_5
+- Ссылка на репозиторий:
+  - [Ссылка на сертификат](https://www.sololearn.com/certificates/CT-8PM8GHME)
