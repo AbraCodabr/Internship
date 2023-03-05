@@ -21,3 +21,7 @@
 # PHP. Теория и практика.Задача_5
 - Ссылка на репозиторий:
   - [Ссылка на сертификат](https://www.sololearn.com/certificates/CT-8PM8GHME)
+
+# PHP. Теория и практика.Задача_6
+- Ссылка на репозиторий:
+  - [PHP.Задача_6](https://github.com/AbraCodabr/Task_list_2)
