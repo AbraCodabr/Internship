@@ -25,3 +25,7 @@
 # PHP. Теория и практика.Задача_6
 - Ссылка на репозиторий:
   - [PHP.Задача_6](https://github.com/AbraCodabr/Task_list_2)
+
+# PHP.ООП.Задача_7
+- Ссылка на репозиторий:
+  - [PHP.Задача_7](https://github.com/AbraCodabr/Plane)
