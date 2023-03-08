@@ -29,3 +29,7 @@
 # PHP.ООП.Задача_7
 - Ссылка на репозиторий:
   - [PHP.Задача_7](https://github.com/AbraCodabr/Plane)
+
+# PHP.MVC.Задача_8
+- Ссылка на репозиторий:
+  - [PHP.Задача_8](https://github.com/AbraCodabr/Task_list_MVC)
