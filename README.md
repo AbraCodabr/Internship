@@ -33,3 +33,7 @@
 # PHP.MVC.Задача_8
 - Ссылка на репозиторий:
   - [PHP.Задача_8](https://github.com/AbraCodabr/Task_list_MVC)
+  
+ # PHP.Laravel.Задача_9
+- Ссылка на репозиторий:
+  - [PHP.Задача_9](https://github.com/AbraCodabr/PHP_laravel)
